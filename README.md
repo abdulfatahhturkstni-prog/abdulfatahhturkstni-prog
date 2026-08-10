@@ -31,20 +31,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulfatahhturtstni-prog&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulfatahhturtstni-prog&layout=compact&theme=radical&hide_border=true&langs_count=5" alt="Top Langs" />
+  <!-- ⚠️ هام جداً: استبدل [YOUR-GITHUB-USERNAME] باسم حسابك الحقيقي هنا -->
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical&hide_border=true" alt="Abdulfatah's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=radical&hide_border=true&langs_count=5" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=abdulfatahhturtstni-prog&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=[YOUR-GITHUB-USERNAME]&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🎮 Interactive Game
+### 💻 Focus & Workflow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlexFlipnote/AI_Snake_Game/master/game.gif" width="400px" alt="Snake Game">
+  <img src="https://raw.githubusercontent.com/Kung-Fu-Panda/GitHub-Profile-Readme-Generator/master/assets/programming.gif" width="70%" alt="Programmer at work">
 </p>
 
 </div>
