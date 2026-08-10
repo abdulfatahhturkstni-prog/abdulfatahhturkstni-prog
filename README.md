@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Abdulfatah AL-Turkistani
 
-**Computer Information Systems Student | Aspiring Software Developer**
+**Computer Information Systems Student | Aspiring Data Science & AI Enthusiast**
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500px" />
@@ -11,7 +11,7 @@
 
 ### 🛠️ Technical Skills
 
-#### 💻 Core Programming Languages
+#### 💻 Core Programming Languages & Data
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,7 +42,7 @@
 ### 💻 Focus & Workflow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kung-Fu-Panda/GitHub-Profile-Readme-Generator/master/assets/programming.gif" width="70%" alt="Programmer at work">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/media/analytics.gif" width="70%" alt="Data Science Workflow">
 </p>
 
 </div>
