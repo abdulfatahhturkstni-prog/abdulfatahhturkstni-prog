@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi I'm Abdulfatah AL-Turkistani 👋
 
-<!--
-**abdulfatahhturkstni-prog/abdulfatahhturkstni-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Information Systems Student**
 
-Here are some ideas to get you started:
+I am a Computer Information Systems student passionate about technology, programming, and data science. I enjoy building projects, learning new technologies, and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+#### 💻 Programming Languages
+* Python
+* SQL
+
+#### 🧰 Tools & Technologies
+* VS Code
+* GitHub
