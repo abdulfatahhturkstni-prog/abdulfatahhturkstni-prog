@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Abdulfatah AL-Turkistani
+# 👋 Hi, I'm Abdulfattah AL-Turkistani
 
 **Computer Information Systems Student | Aspiring Data Science & AI Enthusiast**
 
