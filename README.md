@@ -37,12 +37,4 @@
   <img src="https://github-readme-streak-stats.vercel.app/?user=abdulfatahhturtstni-prog&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-### 💻 Focus & Workflow
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/media/analytics.gif" width="70%" alt="Data Science Workflow">
-</p>
-
 </div>
