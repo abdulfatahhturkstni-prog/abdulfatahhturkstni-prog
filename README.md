@@ -3,9 +3,9 @@
 # 👋 Hi, I'm Abdulfatah AL-Turkistani
 
 **Computer Information Systems Student | Aspiring Data Science & AI Enthusiast**
-<br>
 
-<!>
+
+
 <img src="https://capsculator.vercel.app/api?text=Welcome+to+My+Universe&color=0077b5&type=waving&height=120&section=header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let's+build+the+future+with+code.;Focus+on:+Python,+SQL,+Data;Always+be+learning.)](https://git.io/typing-svg)
