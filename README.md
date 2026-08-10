@@ -5,7 +5,10 @@
 **Computer Information Systems Student | Aspiring Data Science & AI Enthusiast**
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500px" />
+<!-- 🌟 شعار تعريفي فخم -->
+<img src="https://capsculator.vercel.app/api?text=Welcome+to+My+Universe&color=0077b5&type=waving&height=120&section=header" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let's+build+the+future+with+code.;Focus+on:+Python,+SQL,+Data;Always+be+learning.)](https://git.io/typing-svg)
 
 ---
 
@@ -15,7 +18,7 @@
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="50" height="50"/> </a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="50" height="50"/> </a>
 </p>
 
 #### 🧰 Tools & Technologies
@@ -27,6 +30,7 @@
 ---
 
 ### 📊 GitHub Stats
+*(These cards update automatically based on your activity)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulfatahhturtstni-prog&show_icons=true&theme=radical&hide_border=true" alt="Abdulfatah's GitHub Stats" />
@@ -35,6 +39,16 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.vercel.app/?user=abdulfatahhturtstni-prog&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulfatah-al-turkistani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 </div>
